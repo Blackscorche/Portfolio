@@ -29,7 +29,7 @@ const Projects = () => {
                             </div>
 
                             <div className=" flex justify-between items-center my-4">
-                                <a href="http://github.com/Blackscorche/ScorcheTechCompany" className="text-blue-400 hover:text-blue-300 transition-colors">
+                                <a href="https://scorchetech.vercel.app/" className="text-blue-400 hover:text-blue-300 transition-colors">
                                     View Projects ➡
                                 </a>
                             </div>
@@ -73,7 +73,7 @@ const Projects = () => {
                             </div>
 
                             <div className=" flex justify-between items-center my-4">
-                                <a href="https://github.com/Blackscorche/WeatherSearcher" className="text-blue-400 hover:text-blue-300 transition-colors">
+                                <a href="https://weather-searcher-beta.vercel.app/" className="text-blue-400 hover:text-blue-300 transition-colors">
                                     View Projects ➡
                                 </a>
                             </div>
