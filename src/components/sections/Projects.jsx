@@ -51,7 +51,7 @@ const Projects = () => {
                             </div>
 
                             <div className=" flex justify-between items-center my-4">
-                                <a href="https://github.com/Blackscorche/NikeCloneWithReact" className="text-blue-400 hover:text-blue-300 transition-colors">
+                                <a href="https://nike-clone-phi-gules.vercel.app/" className="text-blue-400 hover:text-blue-300 transition-colors">
                                     View Projects ➡
                                 </a>
                             </div>
