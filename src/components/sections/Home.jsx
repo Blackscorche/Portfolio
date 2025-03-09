@@ -1,5 +1,7 @@
 import React from 'react'
 import RevealOnScroll from '../RevealOnScroll'
+import { Link } from 'react-router-dom';
+
 function Home() {
   return (
     <section id='home' className='min-h-[80vh] flex items-center justify-center relative'>
