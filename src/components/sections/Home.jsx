@@ -2,7 +2,7 @@ import React from 'react'
 import RevealOnScroll from '../RevealOnScroll'
 function Home() {
   return (
-    <section id='home' className='min-h-screen flex items-center justify-center relative'>
+    <section id='home' className='min-h-[80vh] flex items-center justify-center relative'>
         <RevealOnScroll>
 
         
