@@ -2,7 +2,7 @@ import RevealOnScroll from '../RevealOnScroll'
 
 const Projects = () => {
     return (
-        <section id="projects" className="min-h-screen flex items-center justify-center">
+        <section id="projects" className="min-h-screen flex items-center justify-center pt-5">
 
             <RevealOnScroll>
 
