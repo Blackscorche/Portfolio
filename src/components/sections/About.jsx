@@ -29,7 +29,6 @@ function About() {
         "Node.js",
         "Express",
         "MongoDB",
-        "GraphQL",
         "MySql"
 
     ];
